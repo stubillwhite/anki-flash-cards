@@ -1,3 +1,3 @@
-Anki flashcards in semi-colon delimited format, with the columns described below.
+Anki flashcards in tab delimited format, with the columns described below.
 
-  * talk-russian.txt - Phrases from BBC Talk Russian book [English phrase, Russian spelling and pronunciation]
+  * talk-russian.txt - Basic Russian conversational phrases

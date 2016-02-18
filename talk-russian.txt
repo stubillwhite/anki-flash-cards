@@ -3,7 +3,7 @@ Hello (informal)	Здравствуй [zdrastvooy]
 Goodbye	До свидания [da sveedaneeya]
 How are you? (formal)	Как у вас дела [kak oo vas dyela]
 Thank you, fine	Спасибо хорошо [spaseeba kharasho]
-And how are you? (formal)	А как у вас [a kak oo vas]
+How are you? (informal)	Как у вас [kak oo vas]
 What do they call you? (informal)	как тебя зовут [kak tebya zavoot]
 I am called...	Меня зовут [menya zavoot...]
 What do they call you?	Как вас зовут [kak vas zavoot]
@@ -38,7 +38,7 @@ Daughter	Дочь [doch]
 And	И [ee] 
 What is he/she called? 	Как его/её зовут [kak yevo/yeyo zavoot] 
 He / She is called... 	Его / Её зовут [yevo / yeyo zavoot]
-Is this... 	Это [eta] 
+Is this...? 	Это...? [eta] 
 Your brother (formal/informal) 	Ваш/твои брат [vash/tvoy brat] 
 Your sister (formal/informal) 	Ваша/твоя сестра [vasha/tvaya sestra] 
 Five	Пять [pyat] 
@@ -47,3 +47,26 @@ Seven 	Семь [syem]
 Eight 	Восемь [vosem] 
 Nine	Девять [dyevat] 
 Ten	Десять [dyesat] 
+Bar	Бар (bar) 
+Cafe	Кафе (cafe) 
+Barman	Бармен (barman) 
+Kiosk	Киоск (kiosk) 
+What would you like?	Что вам угодно (shto vam oogodna) 
+Tea, please	Чаи пожалуйста (chay pazhalsta) 
+Coffee, please	Кофе пожалуйста (kofye pazhalsta) 
+Okay, that's fine	Хорошо (kharasho) 
+Thank you	Спасибо (spaseeba) 
+You're welcome 	Пожалуйста (pazhalsta) 
+Water	Вода (vada) 
+Wine	Вино (veeno) 
+Beer	Пиво (peeva) 
+Lemonade 	Лимонад (leemonad) 
+With sugar	С сахаром (s sakharom) 
+Without sugar	Без сахара (byez sakhara) 
+Sugar	Сахар (sakhar) 
+With milk	С молоком (s malakom) 
+Without milk	Без молока (byez malaka) 
+What would you like? (formal)	Что вы хотите (shto vy khateetye) 
+What would you like? (informal) 	Что ты хочешь (shto ty khochyesh) 
+Yes, please 	Да пожалуйста (da pazhalsta) 
+No, thank you 	Нет спасибо (nyet spaseeba) 

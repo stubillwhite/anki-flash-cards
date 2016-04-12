@@ -47,29 +47,56 @@
 Восемь	Eight
 Девять	Nine
 Десять	Ten
-Бар (bar)	Bar
-Кафе (cafe)	Cafe
-Бармен (barman)	Barman
-Киоск (kiosk)	Kiosk
-Что вам угодно (shto vam oogodna)	What would you like?
-Чаи пожалуйста (chay pazhalsta)	Tea, please
-Кофе пожалуйста (kofye pazhalsta)	Coffee, please
-Хорошо (kharasho)	Fine
-Спасибо (spaseeba)	Thank you
-Вода (vada)	Water
-Вино (veeno)	Wine
-Пиво (peeva)	Beer
-Лимонад (leemonad)	Lemonade
-С сахаром (s sakharom)	With sugar
-Без сахара (byez sakhara)	Without sugar
-Сахар (sakhar)	Sugar
-С молоком (s malakom)	With milk
-Без молока (byez malaka)	Without milk
-Что вы хотите (shto vy khateetye)	What would you like? (formal)
-Что ты хочешь (shto ty khochyesh)	What would you like? (informal)
-Да пожалуйста (da pazhalsta)	Yes, please
-Нет спасибо (nyet spaseeba)	No, thank you
-Я знаю (ya znayoo)	I know
-Журнал (zhoornal)	Magazine
-Гостиница (gasteeneesta)	Hotel
-Доброе утро (dobraye ootra)	Good morning
+Бар	Bar
+Кафе	Cafe
+Бармен	Barman
+Киоск	Kiosk
+Что вам угодно	What would you like?
+Чаи пожалуйста	Tea, please
+Кофе пожалуйста	Coffee, please
+Хорошо	Fine
+Спасибо	Thank you
+Вода	Water
+Вино	Wine
+Пиво	Beer
+Лимонад	Lemonade
+С сахаром	With sugar
+Без сахара	Without sugar
+Сахар	Sugar
+С молоком	With milk
+Без молока	Without milk
+Что вы хотите	What would you like? (formal)
+Что ты хочешь	What would you like? (informal)
+Да пожалуйста	Yes, please
+Нет спасибо	No, thank you
+Я знаю	I know
+Журнал	Magazine
+Гостиница	Hotel
+Доброе утро	Good morning
+Простите, пожалуйста	Excuse me, please
+Скажите, пожалуйста	Tell me, please
+Где	Where...
+Идите	Go...
+Налево	Left
+Прямо	Forward
+Направо	Right
+Это далеко?	Is it far?
+Да, далеко	Yes, it's far
+Нет, недалеко	No, it's not far
+Десять минут пешком	Ten minutes by foot
+Пять минут автобусом	Five minutes by bus
+Один километр	One kilometer
+Где вы живёте?	Where do you live? (formal)
+Где ты живёшь	Where do you live? (informal)
+Я живу в Санкт-Петербурге	I live in St Petersburg
+Одиннадцать	Eleven
+Двенадцать	Twelve
+Тринадцать	Thirteen
+Четырнадцать	Fourteen
+Пятнадцать	Fifteen
+Шестнадцать	Sixteen
+Семнадцать	Seventeen
+Восемнадцать	Eighteen
+Девятнадцать	Nineteen
+Двадцать	Twenty
+Двадцать один	Twenty one

@@ -47,29 +47,56 @@ Seven 	Семь [syem]
 Eight 	Восемь [vosem] 
 Nine	Девять [dyevat] 
 Ten	Десять [dyesat] 
-Bar	Бар (bar) 
-Cafe	Кафе (cafe) 
-Barman	Бармен (barman) 
-Kiosk	Киоск (kiosk) 
-What would you like?	Что вам угодно (shto vam oogodna) 
-Tea, please	Чаи пожалуйста (chay pazhalsta) 
-Coffee, please	Кофе пожалуйста (kofye pazhalsta) 
-Fine	Хорошо (kharasho) 
-Thank you	Спасибо (spaseeba) 
-Water	Вода (vada) 
-Wine	Вино (veeno) 
-Beer	Пиво (peeva) 
-Lemonade 	Лимонад (leemonad) 
-With sugar	С сахаром (s sakharom) 
-Without sugar	Без сахара (byez sakhara) 
-Sugar	Сахар (sakhar) 
-With milk	С молоком (s malakom) 
-Without milk	Без молока (byez malaka) 
-What would you like? (formal)	Что вы хотите (shto vy khateetye) 
-What would you like? (informal) 	Что ты хочешь (shto ty khochyesh) 
-Yes, please 	Да пожалуйста (da pazhalsta) 
-No, thank you 	Нет спасибо (nyet spaseeba) 
-I know	Я знаю (ya znayoo) 
-Magazine	Журнал (zhoornal)
-Hotel	Гостиница (gasteeneesta) 
-Good morning	Доброе утро (dobraye ootra) 
+Bar	Бар [bar] 
+Cafe	Кафе [cafe] 
+Barman	Бармен [barman] 
+Kiosk	Киоск [kiosk] 
+What would you like?	Что вам угодно [shto vam oogodna] 
+Tea, please	Чаи пожалуйста [chay pazhalsta] 
+Coffee, please	Кофе пожалуйста [kofye pazhalsta] 
+Fine	Хорошо [kharasho] 
+Thank you	Спасибо [spaseeba] 
+Water	Вода [vada] 
+Wine	Вино [veeno] 
+Beer	Пиво [peeva] 
+Lemonade 	Лимонад [leemonad] 
+With sugar	С сахаром [s sakharom] 
+Without sugar	Без сахара [byez sakhara] 
+Sugar	Сахар [sakhar] 
+With milk	С молоком [s malakom] 
+Without milk	Без молока [byez malaka] 
+What would you like? (formal)	Что вы хотите [shto vy khateetye] 
+What would you like? (informal) 	Что ты хочешь [shto ty khochyesh] 
+Yes, please 	Да пожалуйста [da pazhalsta] 
+No, thank you 	Нет спасибо [nyet spaseeba] 
+I know	Я знаю [ya znayoo] 
+Magazine	Журнал [zhoornal] 
+Hotel	Гостиница [gasteeneesta] 
+Good morning	Доброе утро [dobraye ootra] 
+Excuse me, please	Простите, пожалуйста [prasteetye, pazhalsta] 
+ Tell me, please	Скажите, пожалуйста [skasheetye, pazhalsta] 
+Where... 	Где [gde] 
+Go... 	Идите [eedeetye]
+Left	Налево [nalevo] 
+Forward	Прямо [pryamo] 
+Right 	Направо [napravo] 
+Is it far? 	Это далеко? [eta dalyeko] 
+Yes, it's far	Да, далеко [da, dalyeko] 
+No, it's not far	Нет, недалеко [nyet, nedalyeko] 
+Ten minutes by foot 	Десять минут пешком [desyat meenoot pyeshkom] 
+Five minutes by bus	Пять минут автобусом [pyat meenoot avtoboosom] 
+One kilometer	Один километр [adeen keelometr] 
+Where do you live? (formal) 	Где вы живёте? [gde vy sheevyotye] 
+Where do you live? (informal) 	Где ты живёшь [gde ty sheevyosh] 
+I live in St Petersburg 	Я живу в Санкт-Петербурге [ya sheevoo vy Sant-Peterboorg] 
+Eleven 	Одиннадцать [adeenatset] 
+Twelve	Двенадцать [dvanatset] 
+Thirteen 	Тринадцать [treenatset] 
+Fourteen 	Четырнадцать [chetyrenatset] 
+Fifteen 	Пятнадцать [pyatnatset] 
+Sixteen 	Шестнадцать [shyestnatset] 
+Seventeen 	Семнадцать [syemnatset] 
+Eighteen 	Восемнадцать [vosemnatset] 
+Nineteen	Девятнадцать [devyatnatset] 
+Twenty 	 Двадцать [dvatset] 
+Twenty one	Двадцать один [dvatset adeen] 

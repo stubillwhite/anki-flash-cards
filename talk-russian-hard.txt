@@ -1,102 +1,119 @@
-Здравствуйтуе	Hello (formal)
-Здравствуй	Hello (informal)
-До свидания	Goodbye
-Как у вас дела	How are you? (formal)
-Спасибо хорошо	Thank you, fine
-Как у вас	How are you? (informal)
-как тебя зовут	What do they call you? (informal)
-Меня зовут	I am called...
-Как вас зовут	What do they call you?
-Очень рад	Pleased to meet you (male speaker)
-Очень рада	Pleased to meet you (female speaker)
-Простите	Pardon/Excuse me/Sorry?
-А как у тебя	And how are you (informal)
-Вы...	You... (formal)
-ТЫ...	You...  (informal)
-Англичанин	English (male)
-Англичанка	English (female)
-Да, я...	Yes, I am...
-Нет, я не...	No, I am not...
-Студенты	Students
-Они женаты	They are married (male plural or formal)
-Женат	Married (male informal)
-Замужем	Married (female)
-Ноль	Zero
-Один	One
-Два	Two
-Три	Three
-Четыре	Four
-Это Анна	This is Anna
-Это мои друг	This is my friend (male)
-Это моя подруга	This is my friend (female)
-Это мои муж	This is my husband
-Это моя жена	This is my wife
-У вас есть дети	Do you have children?
-Да, у меня есть...	Yes, I have...
-Сын	Son
-Дочь	Daughter
-И	And
-Как его/её зовут	What is he/she called?
-Его / Её зовут	He / She is called...
-Это...?	Is this...?
-Ваш/твои брат	Your brother (formal/informal)
-Ваша/твоя сестра	Your sister (formal/informal)
-Пять	Five
-Шесть	Six
-Семь	Seven
-Восемь	Eight
-Девять	Nine
-Десять	Ten
-Бар	Bar
-Кафе	Cafe
-Бармен	Barman
-Киоск	Kiosk
-Что вам угодно	What would you like?
-Чаи пожалуйста	Tea, please
-Кофе пожалуйста	Coffee, please
-Хорошо	Fine
-Спасибо	Thank you
-Вода	Water
-Вино	Wine
-Пиво	Beer
-Лимонад	Lemonade
-С сахаром	With sugar
-Без сахара	Without sugar
-Сахар	Sugar
-С молоком	With milk
-Без молока	Without milk
-Что вы хотите	What would you like? (formal)
-Что ты хочешь	What would you like? (informal)
-Да пожалуйста	Yes, please
-Нет спасибо	No, thank you
-Я знаю	I know
-Журнал	Magazine
-Гостиница	Hotel
-Доброе утро	Good morning
-Простите, пожалуйста	Excuse me, please
-Скажите, пожалуйста	Tell me, please
-Где	Where...
-Идите	Go...
-Налево	Left
-Прямо	Forward
-Направо	Right
-Это далеко?	Is it far?
-Да, далеко	Yes, it's far
-Нет, недалеко	No, it's not far
-Десять минут пешком	Ten minutes by foot
-Пять минут автобусом	Five minutes by bus
-Один километр	One kilometer
-Где вы живёте?	Where do you live? (formal)
-Где ты живёшь	Where do you live? (informal)
-Я живу в Санкт-Петербурге	I live in St Petersburg
-Одиннадцать	Eleven
-Двенадцать	Twelve
-Тринадцать	Thirteen
-Четырнадцать	Fourteen
-Пятнадцать	Fifteen
-Шестнадцать	Sixteen
-Семнадцать	Seventeen
-Восемнадцать	Eighteen
-Девятнадцать	Nineteen
-Двадцать	Twenty
-Двадцать один	Twenty one
+Здрaвствуйтуе	Hello (formal)	
+Здрaвствуй	Hello (informal)	
+До свидания	Goodbye	
+Как у вас дела? 	How are things with you? (formal)	
+Спасибо, хорошо	Thank you, fine	
+Как у тебя дела? 	How are things with you? (informal)	
+как тебя зовут? 	What do they call you? (informal)	
+Меня зовут... 	I am called...	
+Как вас зовут? 	What do they call you?	
+Очень рад	Pleased to meet you (male speaker)	
+Очень рада	Pleased to meet you (female speaker)	
+Простите	Pardon/Excuse me/Sorry?	
+Вы...	You... (formal)	
+ТЫ...	You...  (informal)	
+Англичанин	English (male)	
+Англичанка	English (female)	
+Да, я...	Yes, I am...	
+Нет, я не...	No, I am not...	
+Студенты	Students	
+Они женаты	They are married (male plural or formal)	
+Женат	Married (male informal)	
+Замужем	Married (female)	
+Ноль	Zero	
+Один	One	
+Два	Two	
+Три	Three	
+Четыре	Four	
+Это Анна	This is Anna	
+Это мои друг	This is my friend (male)	
+Это моя подруга	This is my friend (female)	
+Это мои муж	This is my husband	
+Это моя жена	This is my wife	
+У вас есть дети? 	Do you have children?	
+Да, у меня есть...	Yes, I have...	
+Сын	Son	
+Дочь	Daughter	
+И	And	
+Как его/её зовут? 	What is he/she called?	
+Его/её зовут	He/she is called...	
+Это...?	Is this...?	
+Ваш/твои брат	Your brother (formal/informal)	
+Ваша/твоя сестра	Your sister (formal/informal)	
+Пять	Five	
+Шесть	Six	
+Семь	Seven	
+Восемь	Eight	
+Девять	Nine	
+Десять	Ten	
+Бар	Bar	
+Кафе	Cafe	
+Бармен	Barman	
+Киоск	Kiosk	
+Что вам угодно? 	What would you like?	
+Чаи, пожалуйста	Tea, please	
+Кофе, пожалуйста	Coffee, please	
+Хорошо	Fine	
+Спасибо	Thank you	
+Вода	Water	
+Вино	Wine	
+Пиво	Beer	
+Лимонад	Lemonade	
+С сахаром	With sugar	
+Без сахара	Without sugar	
+Сахар	Sugar	
+С молоком	With milk	
+Без молока	Without milk	
+Что вы хотите? 	What would you like? (formal)	
+Что ты хочешь? 	What would you like? (informal)	
+Да, пожалуйста	Yes, please	
+Нет, спасибо	No, thank you	
+Я знаю	I know	
+Журнал	Magazine	
+Гостиница	Hotel	
+Доброе утро	Good morning	
+Простите, пожалуйста	Excuse me, please	
+Скажите, пожалуйста	Tell me, please	
+Где... 	Where...	
+Идите... 	Go...	
+Налево	Left	
+Прямо	Forward	
+Направо	Right	
+Это далеко?	Is it far?	
+Да, далеко	Yes, it's far	
+Нет, недалеко	No, it's not far	
+Десять минут пешком	Ten minutes by foot	
+Пять минут автобусом	Five minutes by bus	
+Один километр	One kilometer	
+Где вы живёте?	Where do you live? (formal)	
+Где ты живёшь? 	Where do you live? (informal)	
+Я живу в Санкт-Петербурге	I live in St Petersburg	
+Одиннадцать	Eleven	
+Двенадцать	Twelve	
+Тринадцать	Thirteen	
+Четырнадцать	Fourteen	
+Пятнадцать	Fifteen	
+Шестнадцать	Sixteen	
+Семнадцать	Seventeen	
+Восемнадцать	Eighteen	
+Девятнадцать	Nineteen	
+Двадцать	Twenty	
+Двадцать один	Twenty-one	
+Вкусно	Delicious 	
+Газета	Newspaper 	
+День	Day	
+Дом	House	
+Меню	Menu	
+Москва	Moscow 	
+Окно	Window 	
+Такси	Taxi	
+Шоколад	Chocolate 	
+Он	He	
+Она	She	
+Оно	It	
+Вот	Here/there	
+Дайте, пожалуйста, меню	Give me, please, the menu 	
+Я не понимаю	I don't understand 	
+Вы меня понимаете?	Do you understand me? 	
+Ладно	Okay	
+Где твой / твоя... 	Where is your... 	

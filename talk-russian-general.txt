@@ -1,0 +1,17 @@
+How can you tell if a noun is masculine? 	It ends in a consonant
+How can you tell if a noun is feminine? 	It ends in -а or -я
+How can you tell if a noun is neuter? 	It ends in an -о
+How should you reply if someone says спасибо? 	Пожалуйста
+How are syllables stressed? 	Varies by word. The letter ё (yo) always carries the stress if present. 
+"How do you make the ""I..."" form of a verb ending with ...ать?"	Я ...аю
+"How do you make the ""You (informal)..."" form of a verb ending with ...ать? "	Ты ...аешь
+"How do you make the ""He / she / it..."" form of a verb ending with ...ать? "	он / она / оно ...ает
+"How do you make the ""We..."" form of a verb ending with ...ать? "	мы ...аем
+"How do you make the ""You (formal)..."" form of a verb ending with ...ать? "	вы ...аете
+"How do you make the ""They..."" form of a verb ending with ...ать? "	они ...ают
+"How do you make the ""I..."" form of a verb ending with ...ить?"	Я ...ю [ya ...yu]
+"How do you make the ""You (informal)..."" form of a verb ending with ...ить?"	Ты ...ишь [ti ...eesh] 
+"How do you make the ""He / she / it..."" form of a verb ending with ...ить? "	он / она / оно ...и [on / an-A / an-O ...ee] 
+"How do you make the ""We..."" form of a verb ending with ...ить? "	мы ...им [mi ...eem] 
+"How do you make the ""You (formal)..."" form of a verb ending with ...ить? "	вы ...ить [vi ...eet] 
+"How do you make the ""They..."" form of a verb ending with ...ить? "	они ...я [an-EE ...eet] 

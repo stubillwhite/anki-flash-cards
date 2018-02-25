@@ -1,0 +1,225 @@
+Здрaвствуйтуе [zdrA-stvooy-tye]	Hello (formal)
+Здрaвствуй [zdrA-stvooy]	Hello (informal)
+До свидания [da svee-dA-nee-ya]	Goodbye
+Кaк у вас дела? [kak oo vas dye-lA]	How are things with you? (formal)
+Спасибо, хорошо [spa-sEE-ba, ha-ra-shO]	Thank you, fine
+Как у тебя дела? [kak oo teb-ya dye-lA]	How are things with you? (informal)
+как тебя зовут? [kak teb-ya za-voot]	How do they call you? (informal)
+Меня зовут [men-YA za-vOOt]	I am called
+Как вас зовут? [kak vas za-vOOt]	How do they call you? (formal)
+Очень рад [O-chyen rAd]	Very glad (to meet you) (male speaker)
+Очень рада [O-chyen rA-da]	Very glad (to meet you) (female speaker)
+Простите [prasteetye]	Pardon/Excuse me/Sorry?
+Вы [vi]	You (formal)
+ТЫ [ti]	You  (informal)
+Англичанин [angleechaneen]	English (male)
+Англичанка [angleechanka]	English (female)
+Да, я... [da, ya]	Yes, I am...
+Нет, я не... [nyet, ya nye]	No, I am not...
+Студент / Студентка [stood-YEnt / stood-YEnt-ka]	Student (male / female)
+Они женаты [anee zhenaty]	They are married (male plural or formal)
+Женат [zhenat]	Married (male informal)
+Замужем [zamoozhem]	Married (female)
+Ноль [nol]	Zero
+Один [adeen]	One
+Два [dva]	Two
+Три [tree]	Three
+Четыре [chetyre]	Four
+Это Анна [eta anna]	This is Anna
+Это мои друг [eta moy droog]	This is my friend (male)
+Это моя подруга [eta maya padrooga]	This is my friend (female)
+Это мои муж [eta moy moozh]	This is my husband
+Это моя жена [eta maya zhena]	This is my wife
+У вас есть дети? [oo vas yest dyetee]	Do you have children?
+У меня есть... [oo men-YA yest]	I have...
+Сын [syn]	Son
+Дочь [doch]	Daughter
+И [ee]	And
+Как его/её зовут? [kak yevo/yeyo zavoot]	How is he/she called?
+Его / Её зовут [yevo / yeyo zavoot]	He / She is called...
+Это...? [eta]	Is this...?
+Брат [brAt]	Brother
+Сестра [sYE-stra]	Sister
+Пять [pyat]	Five
+Шесть [shyest]	Six
+Семь [syem]	Seven
+Восемь [vosem]	Eight
+Девять [dyevat]	Nine
+Десять [dyesat]	Ten
+Бар [bar]	Bar
+Кафе [cafe]	Cafe
+Бармен [barman]	Barman
+Киоск [kiosk]	Kiosk
+Что вам угодно? [shto vam oogodna]	What would you like?
+Чаи пожалуйста [chay pazhalsta]	Tea, please
+Кофе пожалуйста [kofye pazhalsta]	Coffee, please
+Хорошо [kharasho]	Fine
+Спасибо [spaseeba]	Thank you
+Вода [vada]	Water
+Вино [veeno]	Wine
+Пиво [peeva]	Beer
+Лимонад [leemonad]	Lemonade
+С сахаром [s sakharom]	With sugar
+Без сахара [byez sakhara]	Without sugar
+Сахар [sakhar]	Sugar
+С молоком [s malakom]	With milk
+Без молока [byez malaka]	Without milk
+Что вы хотите? [shto vy khateetye]	What would you like? (formal)
+Что ты хочешь? [shto ty khochyesh]	What would you like? (informal)
+Да, пожалуйста [da pazhalsta]	Yes, please
+Нет, спасибо [nyet spaseeba]	No, thank you
+Я знаю [ya znA-yu]	I know
+Журнал [zhoornal]	Magazine
+Гостиница [gas-tEE-neetsa]	Hotel
+Доброе утро [dó-braye oot-ra]	Good morning
+Простите, пожалуйста [prasteetye, pazhalsta]	Excuse me, please
+Скажите, пожалуйста [skasheetye, pazhalsta]	Tell me, please
+Идите [eedEEtye]	Go
+Налево [nalevo]	Left
+Прямо [pryamo]	Forward
+Направо [napravo]	Right
+Это далеко? [eta dalyeko]	Is it far?
+Да, далеко [da, dalyeko]	Yes, it's far
+Нет, недалеко [nyet, nedalyeko]	No, it's not far
+Десять минут пешком [desyat meenoot pyeshkom]	Ten minutes by foot
+Пять минут автобусом [pyat meenoot avtoboosom]	Five minutes by bus
+Один километр [adeen keelometr]	One kilometer
+Где вы живёте? [gdye vy zheevyotye]	Where do you live? (formal)
+Где ты живёшь? [gde ty zheevYOsh]	Where do you live? (informal)
+Я живу в Санкт-Петербурге [ya zheevoo vy Sant-Peterboorg]	I live in St Petersburg
+Одиннадцать [adeenatset]	Eleven
+Двенадцать [dvanatset]	Twelve
+Тринадцать [treenatset]	Thirteen
+Четырнадцать [chetyrenatset]	Fourteen
+Пятнадцать [pyatnatset]	Fifteen
+Шестнадцать [shyestnatset]	Sixteen
+Семнадцать [syemnatset]	Seventeen
+Восемнадцать [vosemnatset]	Eighteen
+Девятнадцать [devyatnatset]	Nineteen
+Двадцать [dvatset]	Twenty
+Двадцать один [dvatset adeen]	Twenty-one
+Вкусно [fkoosna]	Delicious
+Газета [ga-zye-ta]	Newspaper
+День [dyen]	Day
+Дом [dom]	House
+Меню [mye-nyu]	Menu
+Москва [mask-va]	Moscow
+Окно [ak-no]	Window
+Такси [tak-see]	Taxi
+Шоколад [sha-ka-lat]	Chocolate
+Он [on]	He, it (male)
+Она [a-na]	She, it (female)
+Оно [a-no]	It
+Вот [vot]	Here (it is)
+Дайте, пожалуйста, меню [da-yte, pazhalsta, mye-nyu]	Give me, please, the menu
+Я не понимаю [ya nye pan-ee-ma-yu]	I don't understand
+Вы меня понимаете? [vy menya pan-ee-ma-etye]	Do you understand me?
+Ладно [ladno]	Okay
+Привет [pree-vYEt]	Hi (informal)
+Мой / Моя [mOy / maYA]	My (male / female)
+Ваш / Ваша [vash / vAsha]	Your (formal) (male / female)
+Паспорт [pAss-port]	Passport
+Виза [vEEza]	Visa
+Багаж [bag-Azh]	Luggage
+Билет [bil-YEt]	Ticket
+Русский / Русская [rOO-ski / rOO-skaya]	Russian (male / female)
+Англичанин / Англичанка [an-glee-chAn-een / an-glee-chAn-ka]	English (male / female)
+Американец / Американка [am-e-ree-kAn-its / am-e-ree-kAn-ka]	American (male / female)
+Москвич / Москвичка [mas-kvEEch / mas-kvEEch-ka]	Muscovite (male / female)
+Турист / Туристка [too-rEEst / too-rEEst-ka]	Tourist (male / female)
+Очень [O-chyen]	Very
+Мы [mi]	We
+Онй [anee]	They
+Актёр / Актриса [ak-tYOr / ak-trEEsa]	Actor / Actress
+Инженер [en-zhyen-YEr]	Engineer
+Место [mYEst-o]	Place, seat
+Там [tam]	There
+Фамилия [fam-EE-lee-ya]	Surname
+Имя [EE-mya]	First name
+Отчество [O-tchye-stvo]	Patronomic
+Вы уже хорошо говорите по-русски [vi oo-zhYE ha-ra-shO go-vo-rEEt-ye po-rOO-skee]	You already speak Russian well
+Я изучаю [ya ee-zooch-aYU]	I (am currently) learning
+Русский язык [rOO-ski yaz-Ik]	Russian (language)
+Три года [tree gOda]	(for) three years
+Я живу [ya zhee-vOO]	I live
+В Москве [vi mask-vYE]	In Moscow
+Где [gdYE]	Where
+В живёте [vi zhee-vYO-tye]	You (formal) live
+Я работаю [ya ra-bOt-ayu]	I work
+В работаете [vi ra-bat-ay-ete]	You work (formal)
+Английский язык [ang-lEEe-skee yaz-Ik]	English (language)
+Я преподаю [ya prye-pad-aYU]	I teach
+Здесь [zdyes]	Here (in this place)
+Как [kak]	How
+Очень приятно [O-chyen pree-YAtno]	Very pleased (to meet you)
+Интересно [een-ter-es-no]	Interesting
+Работать [ra-bOt-at]	Work
+Он / она / оно работает [on / an-A / an-O ra-bOt-ayet]	He / she / it works
+Твой / твоя [tvOy / tva-YA]	Your (informal) (male / female)
+Мы работаем [mi ra-bOt-ayem]	We work
+Ты работаешь [ti ra-bOt-ayesh]	You work (informal)
+Они работают [an-EE ra-bOt-ayut]	They work
+Чево [chye-vO]	Huh?
+Маленький [ma-lYEn-kee]	Small
+Птица говорун отличается умом и сообразительностью [p-tee-tsa gO-varoon at-lee-chayetsya oo-mOm ee so-bra-zeetyel-nastyu]	The bird chatterer is distinguished by cleverness and quick wit
+Вот почему [vot poch-yem-OO]	That's why
+Извините [ee-zvee-nEE-tye]	Excuse me
+Иногда [ee-nog-dА]	Sometimes
+Тоже [tOzh-ye]	Also
+Только [tOl-ka]	Only
+Большой [bol-shOy]	Big
+Квартира [kvar-tEEra]	Flat
+Конечно [ka-nYE-chno]	Of course
+Красивая архитектура [kra-sEE-vaya ar-khee-tyekh-tYUra]	Beautiful architecture
+Например [napree-mYEr]	For example
+Находится [nakhod-EEt-sya]	To be situated
+Река [ryekA]	River
+Старый [stAr-y]	Old
+Человек [chye-lo-vYEk]	Person
+Вы не знаете...? [vi nye zhnA-yetye]	You don't know...?
+Как пройти в...? [kak pray-tEE v]	How do I / does one get to... ?
+Куда [koodA]	Where to?
+У вас есть... ? [oo vas yest]	Do you have... ?
+План [plan]	Plan / map
+Ну [noo]	Well...
+Понятно [pan-YAtna]	Understood
+Видеть [vEE-dyet]	To see
+Ресторан [rest-oran]	Restaurant
+Вон там [vOn tAm]	Over there
+Идти [ееdtEE]	To go
+Так... [tak]	So...
+Вы не знаете... [vy ne znA-ete]	You don't know...
+турагенство [tyooragenstve]	Travel agency
+белый (beliy)	White
+морщина [morschina]	wrinkle
+неудовлетворённый [neudovletvoryonniy]	unsatisfied
+смотреть [smotret]	See
+рука [ruka]	Hand
+полицейский [politseyskiy]	Police officer
+влажный тропический лес&amp;nbsp;[vlazhniy tropicheskiy les]	Rain forest
+бобр&amp;nbsp;[bobr]	Beaver
+нога&amp;nbsp;[noga]	Leg
+сердитый [serditiy]	Angry
+торнадо [tornado]	Tornado
+микроволновая печь [mikrovalnovaya pech]	Microwave oven
+гид&amp;nbsp;[gid]	Guide
+настольный компьютер [nastol'nyy komp'yuter]	Desktop computer
+книга&amp;nbsp;[kniga]	Book
+мышь&amp;nbsp;[mysh']	Mouse
+телевизор [televizor]	Television
+комод [komod]	Dresser
+столовый нож [stolovyy nozh]	Steak knife
+политика [politika]	Politics
+наушники [naushniki]	Headphones
+начальник [nachal'nik]	Boss (male)
+проверка багажа [proverka bagazha]	Luggage check
+жаждущий [zhazhdushchiy]	Thirsty
+открывала [otkryvalka]	Bottle opener
+чаевые [chayeviye]	Tip / gratuity
+расслабленный [rasslablenniy]	Relaxed
+письменный стол [pis'menniy stol]	Desk
+бронирование [bronirovaniye]	Reservation
+начальница [nachal'nitsa]	Boss (female)
+лук [luk]	Onion
+энергичный [energichniy]	Lively
+не соглашаться [ne soglashat'sya]	Disagree

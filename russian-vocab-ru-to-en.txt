@@ -48,7 +48,7 @@
 Десять [dyesat]	Ten
 Бар [bar]	Bar
 Кафе [cafe]	Cafe
-Бармен [barman]	Barman
+Бармен [barmen]	Barman
 Киоск [kiosk]	Kiosk
 Что вам угодно? [shto vam oogodna]	What would you like?
 Чаи пожалуйста [chay pazhalsta]	Tea, please
@@ -223,3 +223,5 @@
 лук [luk]	Onion
 энергичный [energichniy]	Lively
 не соглашаться [ne soglashat'sya]	Disagree
+лук [luk]	Onion
+энергичный [energichniy]	Lively
